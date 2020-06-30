@@ -2,5 +2,4 @@
 theme=KvArcDark
 
 [Applications]
-ArcDark=calamares, simplescreenrecorder, qbittorrent, vlc, flameshot, octopi, octopi-notifier, imagewriter, keepassxc
 Default=virtualbox
