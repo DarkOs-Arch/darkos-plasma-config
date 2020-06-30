@@ -1,2 +1,2 @@
 syntax on 
-source ~/.vim/colors/dracula.vim
+source ~/.config/nvim/dracula.vim
