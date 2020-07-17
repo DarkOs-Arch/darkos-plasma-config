@@ -1,5 +1,5 @@
 [$Version]
-update_info=filepicker.upd:filepicker-remove-old-previews-entry,fonts_global.upd:Fonts_Global,fonts_global_toolbar.upd:Fonts_Global_Toolbar,icons_remove_effects.upd:IconsRemoveEffects,kwin.upd:animation-speed,style_widgetstyle_default_breeze.upd:StyleWidgetStyleDefaultBreeze
+update_info=filepicker.upd:filepicker-remove-old-previews-entry,fonts_global.upd:Fonts_Global,fonts_global_toolbar.upd:Fonts_Global_Toolbar
 
 [ColorEffects:Disabled]
 Color=56,56,56
@@ -106,8 +106,11 @@ ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
 
 [General]
-ColorScheme=KvArcDark
+ColorScheme=Breeze
 Name=Breeze
+XftAntialias=true
+XftHintStyle=hintmedium
+XftSubPixel=none
 shadeSortColumn=true
 widgetStyle=Breeze
 
@@ -117,7 +120,7 @@ Theme=breeze
 [KDE]
 ColorScheme=Breeze
 contrast=4
-widgetStyle=kvantum-dark
+widgetStyle=Breeze
 
 [WM]
 activeBackground=71,80,87
